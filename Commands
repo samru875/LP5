@@ -1,0 +1,6 @@
+1.
+g++ -fopenmp parallel_reduction.cpp -o reduction
+./reduction
+2.
+g++ -fopenmp parallel_merge_sort.cpp -o psort
+./psort
